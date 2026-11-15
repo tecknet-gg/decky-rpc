@@ -1,5 +1,6 @@
 def main():
-    print("Hello from rpc-server!")
+    print("checkout rpc-server branch")
+
 
 
 if __name__ == "__main__":
