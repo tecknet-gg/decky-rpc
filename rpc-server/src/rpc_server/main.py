@@ -1,7 +1,3 @@
+from rpc_server.transport.discovery import retrieve_sockets
 def main():
-    print("checkout rpc-server branch")
-
-
-
-if __name__ == "__main__":
-    main()
+    retrieve_sockets()
